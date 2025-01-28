@@ -51,7 +51,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 
-<img src="architecture.jpeg">
+![architecture](https://github.com/user-attachments/assets/d7192fb1-0af7-49f7-9c71-85b553f618de)
 
 ## Please click link below to see whole process illustrated and documented step by step
 
